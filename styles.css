@@ -9,7 +9,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background: rgb(0, 0, 0) url(pacote-d013/pacote-d013/imagens/fundo-madeira.jpg) center center no-repeat fixed;
+    background: rgb(0, 0, 0) url(pacote-d013/imagens/fundo-madeira.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
@@ -24,7 +24,7 @@ div#phone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    background: url(pacote-d013/pacote-d013/imagens/frame-iphone.png);
+    background: url(pacote-d013/imagens/frame-iphone.png);
     height: 627px;
     width: 311px;
 }
@@ -38,7 +38,7 @@ iframe#tela {
 }
 
 div#redes-sociais {
-    text-align: right;
+    text-align: center;
 }
 
 div#redes-sociais img {
